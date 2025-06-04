@@ -95,7 +95,7 @@ python3 harp.py
 ### ⚙️ Configuration
 
 #### Coordonnées de la Souris
-Le bot utilise des coordonnées spécifiques pour chaque note. Si les coordonnées ne correspondent pas à votre écran :
+Le bot utilise des coordonnées spécifiques pour chaque note. Si les coordonnées ne correspondent pas à votre écran (default: 1920x1080) :
 - Utilisez un outil comme MPos-v.0.5.0 pour obtenir vos coordonnées de souris
 - Modifiez le dictionnaire `mapping` dans le code avec vos coordonnées
 
